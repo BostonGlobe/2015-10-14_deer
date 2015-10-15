@@ -1,0 +1,10 @@
+dist
+.tmp
+node_modules
+ssh-config.js
+2015-10-14_deer_cache
+2015-10-14_deer_files
+2015-10-14_deer.html
+.Rhistory
+
+*.swp
